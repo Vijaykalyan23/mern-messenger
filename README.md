@@ -39,8 +39,9 @@
 <img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG" width="300"/>
 
 ### 🔄 Add/Remove Users & Profile View
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG" width="300"/>
+<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG" />
 
+![Screenshot_23-4-2025_165635_localhost](https://github.com/user-attachments/assets/d6ca0b4b-22eb-4295-8073-c8785dd8db9b)
 
 ---
 
