@@ -24,7 +24,9 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.16.0",
     "mongoose": "^8.13.2",
-    "nodemon": "^2.0.7",
     "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "github:remy/nodemon#master"
   }
 }
