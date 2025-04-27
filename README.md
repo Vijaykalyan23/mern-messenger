@@ -1,4 +1,4 @@
-<h1 align="center">💬 TALK-A-TIVE - A MERN Real-Time Messenger</h1>
+<h1 align="center">💬 TALK-A-TIVE  - a MERN Real-Time Messenger</h1>
 
 <p align="center">
   <b>Real-Time Chat App</b> using <strong>React, Node.js, Express, MongoDB & Socket.io</strong><br />
