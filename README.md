@@ -24,22 +24,22 @@
 ## 🖥️ Screenshots
 
 ### 🔐 Authentication
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG" width="300"/>
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG" width="300"/>
+<img src="https://github.com/user-attachments/assets/d4c423c9-1267-47a9-b1d7-a2f445b13da9" width="300"/>
+<img src="https://github.com/user-attachments/assets/bc3984d6-81ce-4a89-a0c4-d01035140bd7" width="300"/>
 
 ### 💬 Real-Time Messaging
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG" width="600"/>
+<img src="https://github.com/user-attachments/assets/7ddaeb36-0084-425e-9e2d-779819ede0c6" width="600"/>
 
 ### 👥 One-to-One & Group Chats
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG" width="300"/>
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG" width="300"/>
+<img src="https://github.com/user-attachments/assets/b76f6ab8-8a49-4b13-b626-2ec3ac65dfb1" width="300"/>
+<img src="https://github.com/user-attachments/assets/72de94f8-ff2e-4a5f-9313-b8407541807e" width="300"/>
 
 ### 🔎 Search & Notifications
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG" width="300"/>
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG" width="300"/>
+<img src="https://github.com/user-attachments/assets/39932cd1-7d7f-46ea-82e3-83572771aeb8" width="300"/>
+<img src="https://github.com/user-attachments/assets/4f91eb22-64cb-40a1-8b0b-55d2acc1ed69" width="300"/>
 
 ### 🔄 Add/Remove Users & Profile View
-<img src="https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG" />
+<img src="https://github.com/user-attachments/assets/c35d8d30-5773-4e9b-9bb3-2d213bac538b" />
 
 ![Screenshot_23-4-2025_165635_localhost](https://github.com/user-attachments/assets/d6ca0b4b-22eb-4295-8073-c8785dd8db9b)
 
